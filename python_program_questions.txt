@@ -1,0 +1,261 @@
+Practice exercise question:
+
+1.	Basic Programming questions:
+a.	Write a program to perform basic input/output operations.
+b.	Write a program to enter two numbers and perform arithmetic operations on them.
+c.	Write a program to find area, circumference/perimeter of different geometrical shapes.
+d.	Write a program to convert meters to kilometers.
+e.	Write a program to convert Celsius to Fahrenheit and vice versa.
+f.	Write a program to convert days into years, months and weeks. 
+g.	Write a program to find power of any number.
+h.	Write a program to find simple interest when P, R, T are given.
+
+2.	Bitwise  operator questions:
+
+a.	Write a  program to check Least Significant Bit (LSB) of a number is set or not.
+b.	Write a  program to check Most Significant Bit (MSB) of a number is set or not.
+c.	Write a  program to get nth bit of a number.
+d.	Write a  program to set nth bit of a number.
+e.	Write a  program to clear nth bit of a number.
+f.	Write a  program to toggle nth bit of a number.
+g.	Write a  program to get highest set bit of a number.
+h.	Write a  program to get lowest set bit of a number.
+i.	Write a  program to count trailing zeros in a binary number.
+j.	Write a  program to count leading zeros in a binary number.
+k.	Write a  program to flip bits of a binary number using bitwise operator.
+l.	Write a  program to count total zeros and ones in a binary number.
+m.	Write a  program to rotate bits of a given number.
+n.	Write a  program to convert decimal to binary number system using bitwise operator.
+o.	Write a  program to swap two numbers using bitwise operator.
+
+3.	Conditional operator questions:
+a.	Write a  program to find maximum between two numbers using conditional operator.
+b.	Write a  program to find maximum between three numbers using conditional operator.
+c.	Write a  program to check whether a number is even or odd using conditional operator.
+d.	Write a  program to check whether year is leap year or not using conditional operator.
+e.	Write a  program to check whether character is an alphabet or not using con-ditional operator.
+
+4.	If-else questions:
+a.	Write a  program to find maximum between two numbers.
+b.	Write a  program to find maximum between three numbers.
+c.  Write a  program to check whether a number is negative, positive or zero.
+d.	Write a  program to check whether a number is divisible by 5 and 11 or not.
+e.	Write a  program to check whether a number is even or odd.
+f.	Write a  program to check whether a year is leap year or not.
+g.	Write a  program to check whether a character is alphabet or not.
+h.	Write a  program to input any alphabet and check whether it is vowel or con-sonant.
+i.	Write a  program to input any character and check whether it is alphabet, digit or special character.
+j.	Write a  program to check whether a character is uppercase or lowercase al-phabet.
+k.	Write a  program to input week number and print week day.
+l.	Write a  program to input month number and print number of days in that month.
+m.	Write a  program to count total number of notes in given amount.
+n.	Write a  program to input angles of a triangle and check whether triangle is valid or not.
+o.	Write a  program to input all sides of a triangle and check whether triangle is valid or not.
+p.	Write a  program to check whether the triangle is equilateral, isosceles or scalene triangle.
+q.	Write a  program to find all roots of a quadratic equation.
+r.	Write a  program to calculate profit or loss.
+s.	Write a  program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following:
+                                    Percentage >= 90% : Grade A
+                                    Percentage >= 80% : Grade B
+                                   Percentage >= 70% : Grade C
+                                   Percentage >= 60% : Grade D
+                                   Percentage >= 40% : Grade E
+                                   Percentage < 40% : Grade F
+t.	Write a  program to input basic salary of an employee and calculate its Gross salary according to following:
+                                  Basic Salary <= 10000 : HRA = 20%, DA = 80%
+                                  Basic Salary <= 20000 : HRA = 25%, DA = 90%
+                                  Basic Salary > 20000 : HRA = 30%, DA = 95%
+u.	Write a  program to input electricity unit charges and calculate total electricity bill according to the given condition:
+                                  For first 50 units Rs. 0.50/unit
+                                  For next 100 units Rs. 0.75/unit
+                                 For next 100 units Rs. 1.20/unit
+                                 For unit above 250 Rs. 1.50/unit
+                                 An additional surcharge of 20% is added to the bill
+
+5.	Switch case questions:
+
+a)	Write a  program to print day of week name using switch case.
+b)	Write a  program print total number of days in a month using switch case.
+c)	Write a  program to check whether an alphabet is vowel or consonant using switch case.
+d)	Write a  program to find maximum between two numbers using switch case.
+e)	Write a  program to check whether a number is even or odd using switch case.
+f)	Write a  program to find roots of a quadratic equation using switch case.
+g)	Write a  program to create Simple Calculator using switch case.
+
+
+6.	Loops and iteration:
+
+a)	Write a  program to print all natural numbers from 1 to n. - using while loop
+b)	Write a  program to print all natural numbers in reverse (from n to 1). -    us-ing while loop
+c)	Write a  program to print all alphabets from a to z. - using while loop
+d)	Write a  program to print all even numbers between 1 to 100. - using while loop
+e)	Write a  program to print all odd number between 1 to 100.
+f)	Write a  program to find sum of all natural numbers between 1 to n.
+g)	Write a  program to find sum of all even numbers between 1 to n.
+h)	Write a  program to find sum of all odd numbers between 1 to n.
+i)	Write a  program to print multiplication table of any number.
+j)	Write a  program to count number of digits in a number.
+k)	Write a  program to find first and last digit of a number.
+l) 	Write a  program to find sum of first and last digit of a number.
+m)	Write a  program to swap first and last digits of a number.
+n)	Write a  program to calculate sum of digits of a number.
+o)	Write a  program to calculate product of digits of a number.
+p)	Write a  program to enter a number and print its reverse.
+q)	Write a  program to check whether a number is palindrome or not.
+r)	Write a  program to find frequency of each digit in a given integer.
+s)	Write a  program to enter a number and print it in words.
+t)	Write a  program to print all ASCII character with their values.
+u)	Write a  program to find power of a number using for loop.
+v)	Write a  program to find all factors of a number.
+w)	Write a  program to calculate factorial of a number.
+x)	Write a  program to find HCF (GCD) of two numbers.
+y)	Write a  program to find LCM of two numbers.
+z)	Write a  program to check whether a number is Prime number or not.
+aa)	Write a  program to print all Prime numbers between 1 to n.
+bb)	Write a  program to find sum of all prime numbers between 1 to n.
+cc)	Write a  program to find all prime factors of a number.
+dd)	Write a  program to check whether a number is Armstrong number or not.
+ee)	Write a  program to print all Armstrong numbers between 1 to n.
+ff)	Write a  program to check whether a number is Perfect number or not.
+gg)	Write a  program to print all Perfect numbers between 1 to n.
+hh)	Write a  program to check whether a number is Strong number or not.
+ii)	Write a  program to print all Strong numbers between 1 to n.
+jj)	Write a  program to print Fibonacci series up to n terms.
+kk)	Write a  program to find one's complement of a binary number.
+ll)	Write a  program to find two's complement of a binary number.
+mm)	Write a  program to convert Binary to Octal number system.
+nn)	Write a  program to convert Binary to Decimal number system.
+oo)	Write a  program to convert Binary to Hexadecimal number system.
+pp)	Write a  program to convert Octal to Binary number system.
+qq)	Write a  program to convert Octal to Decimal number system.
+rr)	Write a  program to convert Octal to Hexadecimal number system.
+ss)	Write a  program to convert Decimal to Binary number system.
+tt)	Write a  program to convert Decimal to Octal number system.
+uu)	Write a  program to convert Decimal to Hexadecimal number system.
+vv)	Write a  program to convert Hexadecimal to Binary number system.
+ww)	Write a  program to convert Hexadecimal to Octal number system.
+xx)	Write a  program to convert Hexadecimal to Decimal number system.
+yy)	Write a  program to print Pascal triangle upto n rows.
+zz)	Star pattern programs - Write a  program to print the given star patterns.
+aaa)	Number pattern programs - Write a  program to print the given number patterns.
+
+7.	Functions and recursion:
+
+a)	Write a  program to find cube of any number using function.
+b)	Write a  program to find diameter, circumference and area of circle using func-tions.
+c)	Write a  program to find maximum and minimum between two numbers using functions.
+d)	Write a  program to check whether a number is even or odd using functions.
+e)	Write a  program to check whether a number is prime, Armstrong or perfect num-ber using functions.
+f)	Write a  program to find all prime numbers between given interval using functions.
+g)	Write a  program to print all strong numbers between given interval using func-tions.
+h)	Write a  program to print all Armstrong numbers between given interval using functions.
+i)	Write a  program to print all perfect numbers between given interval using func-tions. 
+j)	Write a  program to find power of any number using recursion.
+k)	Write a  program to print all natural numbers between 1 to n using recursion.
+l)	Write a  program to print all even or odd numbers in given range using recursion.
+m)	Write a  program to find sum of all natural numbers between 1 to n using recur-sion.
+n)	Write a  program to find sum of all even or odd numbers in given range using re-cursion.
+o)	Write a  program to find reverse of any number using recursion.
+p)	Write a  program to check whether a number is palindrome or not using recursion.
+q)	Write a  program to find sum of digits of a given number using recursion.
+r)	Write a  program to find factorial of any number using recursion.
+s)	Write a  program to generate nth Fibonacci term using recursion.
+t)	Write a  program to find GCD (HCF) of two numbers using recursion.
+u)	Write a  program to find LCM of two numbers using recursion.
+ 
+v)	Write a  program to display all array elements using recursion.
+w)	Write a  program to find sum of elements of array using recursion.
+x)	Write a  program to find maximum and minimum elements in array using recur-sion.
+
+8.	Arrays programming questions:
+
+a.	Write a  program to read and print elements of array. - using recursion.
+b.	Write a  program to print all negative elements in an array.
+c.  Write a  program to find sum of all array elements. - using recursion.
+d.	Write a  program to find maximum and minimum element in an array. - us-ing recursion.
+e.	Write a  program to find second largest element in an array.
+f.	Write a  program to count total number of even and odd elements in an array.
+g.	Write a  program to count total number of negative elements in an array.
+h.	Write a  program to copy all elements from an array to another array.
+i.	Write a  program to insert an element in an array.
+j.	Write a  program to delete an element from an array at specified position.
+k.	Write a  program to count frequency of each element in an array.
+l.	Write a  program to print all unique elements in the array.
+m.	Write a  program to count total number of duplicate elements in an array.
+n.	Write a  program to delete all duplicate elements from an array.
+o.	Write a  program to merge two array to third array.
+p.	Write a  program to find reverse of an array.
+q.	Write a  program to put even and odd elements of array in two separate array.
+r.	Write a  program to search an element in an array.
+s.	Write a  program to sort array elements in ascending or descending order.
+t.	Write a  program to sort even and odd elements of array separately.
+u.	Write a  program to left rotate an array.
+v.	Write a  program to right rotate an array.
+
+9.	String programming questions:
+
+a.	Write a  program to find length of a string.
+b.	Write a  program to copy one string to another string.
+c.	Write a  program to concatenate two strings.
+d.	Write a  program to compare two strings.
+
+e.	Write a  program to convert lowercase string to uppercase.
+f.	Write a  program to convert uppercase string to lowercase.
+g.	Write a  program to toggle case of each character of a string.
+ 
+h.	Write a  program to find total number of alphabets, digits or special character in a string.
+i.	Write a  program to count total number of vowels and consonants in a string.
+j. 	Write a  program to count total number of words in a string.
+k.	Write a  program to find reverse of a string.
+l.	Write a  program to check whether a string is palindrome or not.
+m.	Write a  program to reverse order of words in a given string.
+ 
+n.	Write a  program to find first occurrence of a character in a given string.
+o.	Write a  program to find last occurrence of a character in a given string.
+p.	Write a  program to search all occurrences of a character in given string.
+q.	Write a  program to count occurrences of a character in given string.
+r.	Write a  program to find highest frequency character in a string.
+s.	Write a  program to find lowest frequency character in a string.
+t.   	Write a  program to count frequency of each character in a string.
+u.	Write a  program to remove first occurrence of a character from string.
+v.	Write a  program to remove last occurrence of a character from string.
+w.	Write a  program to remove all occurrences of a character from string.
+x.	Write a  program to remove all repeated characters from a given string.
+y.	Write a  program to replace first occurrence of a character with another in a string.
+z.	Write a  program to replace last occurrence of a character with another in a string.
+aa.	Write a  program to replace all occurrences of a character with another in a string.
+ 
+bb.	Write a  program to find first occurrence of a word in a given string.
+cc.	Write a  program to find last occurrence of a word in a given string.
+dd.	Write a  program to search all occurrences of a word in given string.
+ee.	Write a  program to count occurrences of a word in a given string.
+ff.	Write a  program to remove first occurrence of a word from string.
+gg.	Write a  program to remove last occurrence of a word in given string.
+hh.	Write a  program to remove all occurrence of a word in given string.
+ 
+ii.	Write a  program to trim leading white space characters from given string.
+jj.	Write a  program to trim trailing white space characters from given string.
+kk.	Write a  program to trim both leading and trailing white space characters from given string.
+ll.	Write a  program to remove all extra blank spaces from given string.
+
+
+10.	Pointers Programming questions:
+a.	Write a  program to create, initialize and use pointers.
+b.	Write a  program to add two numbers using pointers.
+c.  Write a  program to swap two numbers using pointers.
+d.	Write a  program to input and print array elements using pointer.
+e.	Write a  program to copy one array to another using pointers.
+f.	Write a  program to swap two arrays using pointers.
+g.	Write a  program to reverse an array using pointers.
+h.	Write a  program to search an element in array using pointers.
+i.	Write a  program to access two dimensional array using pointers.
+j.	Write a  program to add two matrix using pointers.
+k.	Write a  program to multiply two matrix using pointers.
+l.	Write a  program to find length of string using pointers.
+m.	Write a  program to copy one string to another using pointers.
+n.	Write a  program to concatenate two strings using pointers.
+o.	Write a  program to compare two strings using pointers.
+p.	Write a  program to find reverse of a string using pointers.
+q.	Write a  program to sort array using pointers.
+r.	Write a  program to return multiple value from function using pointers.
+
